@@ -20,4 +20,14 @@ Email
 ------
 [hw2688@umd.edu](hw2688@umd.edu)
 
+Working Paper
+-------------
+Implications of Narrow Framing for Firm Dynamics 
 
+
+Work In Progress
+----------------
+
+Endogenous Innovation with Knightian Uncertainty: Perspectives from Reinforcement Learning
+
+Setting the Wrong Price for the Right Reason: Consequences for Ination and Monetary Policy" (with Camilo Morales-Jimenez and Luminita Stevens)
