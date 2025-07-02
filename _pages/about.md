@@ -1,14 +1,12 @@
 ---
 permalink: /
-title:
+title: "Haoran Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Haoran Wang
---------
 
 I am a PhD student in Economics at University of Maryland, College Park. 
 
