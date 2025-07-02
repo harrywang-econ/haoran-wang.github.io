@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
+Haoran Wang
+--------
 
 I am a PhD student in Economics at University of Maryland, College Park. 
 
