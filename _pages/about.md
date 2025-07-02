@@ -18,8 +18,6 @@ You can find my [CV](files/Haoran_Wang_CV_June_2025.pdf) here.
 
 Email
 ------
-hw2688@umd.edu
+[hw2688@umd.edu](hw2688@umd.edu)
 
-Working Paper
--------------
-Implications of Narrow Framing for Firm Dynamics. 
+
