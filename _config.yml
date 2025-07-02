@@ -13,7 +13,7 @@ title                    : ""
 title_separator          : ""
 name                     : 
 description              : 
-baseurl                  : "/harrywang-econ.github.io"
+baseurl                  : ""
 url                      : "https://harrywang-econ.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "harrywang-econ/harrywang-econ.github.io"
 
