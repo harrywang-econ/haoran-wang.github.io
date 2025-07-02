@@ -12,12 +12,12 @@ I am a PhD student in Economics at University of Maryland, College Park.
 
 I am a macroeconomist studying the implications of behavioral and informational frictions for firm dynamics and macroeconomic policy. 
 
-You can find my CV here.
+You can find my [CV](files/Haoran_Wang_CV_June_2025.pdf) here.
 
 
 Email
 ------
-hw2688 [at] umd.edu
+hw2688@umd.edu
 
 Working Paper
 -------------
