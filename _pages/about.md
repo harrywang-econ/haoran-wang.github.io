@@ -17,7 +17,7 @@ I am a fourth-year PhD student in Economics at University of Maryland, College P
 Working Paper
 -------------
 [Implications of Narrow Framing for Firm Dynamics](files/NF_draft_July_2025.pdf) <br>
-<span style="font-size:16px"> [Last updated: July 2025] </span>
+[Last updated: July 2025]
 
 Work In Progress
 ----------------
