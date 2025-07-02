@@ -22,7 +22,7 @@ Email
 
 Working Paper
 -------------
-Implications of Narrow Framing for Firm Dynamics 
+[Implications of Narrow Framing for Firm Dynamics](files/NF_draft_July_2025.pdf) 
 
 
 Work In Progress
