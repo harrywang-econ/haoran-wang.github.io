@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+-----------
 
-I am a PhD student in Economics at University of Maryland, College Park. 
+I am a fourth-year PhD student in Economics at University of Maryland, College Park. 
 
 I am a macroeconomist studying the implications of behavioral and informational frictions for firm dynamics and macroeconomic policy. 
 
