@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fourth-year PhD student in Economics at University of Maryland, College Park. 
 
-I am a macroeconomist studying the implications of behavioral and informational frictions for firm dynamics and macroeconomic policy. 
+I study macroeconomics, with a focus on the implications of behavioral and informational frictions for firm dynamics and macroeconomic policy. 
 
 You can find my [CV](files/Haoran_Wang_CV_June_2025.pdf) here.
 
@@ -23,6 +23,9 @@ Email
 Working Paper
 -------------
 [Implications of Narrow Framing for Firm Dynamics](files/NF_draft_July_2025.pdf) 
+[Latest Verson: July 2025]
+Melville J. Ulmer Graduate Fellowship (Best Second-year Paper), University of Maryland
+Best Third-year Paper, University of Maryland
 
 
 Work In Progress
