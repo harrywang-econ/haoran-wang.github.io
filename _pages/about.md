@@ -23,10 +23,6 @@ Email
 Working Paper
 -------------
 [Implications of Narrow Framing for Firm Dynamics](files/NF_draft_July_2025.pdf) 
-[Latest Verson: July 2025]
-Melville J. Ulmer Graduate Fellowship (Best Second-year Paper), University of Maryland
-Best Third-year Paper, University of Maryland
-
 
 Work In Progress
 ----------------
